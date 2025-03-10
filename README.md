@@ -1,0 +1,1 @@
+The website is a simple and interactive "To-Do List" web application. It allows users to add tasks, helping them stay organized and track their activities. It likely includes features like marking tasks as completed or removing them
